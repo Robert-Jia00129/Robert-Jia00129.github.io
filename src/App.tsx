@@ -1,24 +1,36 @@
+// src/App.tsx
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
-function App() {
+const App: React.FC = () => {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <nav>
+          <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/about">About Me</a></li>
+            <li><a href="/portfolio">Portfolio</a></li>
+            <li><a href="/blog">Blog</a></li>
+            <li><a href="/contact">Contact</a></li>
+          </ul>
+        </nav>
       </header>
+      <main>
+        <section className="hero">
+          <h1>Welcome to My Personal Website</h1>
+          <p>Hi, I'm Robert Jia, a computer science student at UMN.</p>
+          <img src="images/profile.jpg" alt="Robert Jia"/>
+        </section>
+        <section className="featured-projects">
+          <h2>Featured Projects</h2>
+          {/* Add your featured projects here */}
+        </section>
+      </main>
+      <footer>
+        <p>Follow me on social media: [links]</p>
+        <p>Contact: [contact information]</p>
+      </footer>
     </div>
   );
 }
