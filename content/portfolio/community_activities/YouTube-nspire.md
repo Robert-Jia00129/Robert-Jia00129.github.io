@@ -2,6 +2,7 @@
 title: Empowering Students with AP Calculus Tutorial Series
 start_date: 09-04-2022
 end_date: Current
+date: 2022-09-04
 brief: I created a series of YouTube tutorials to help students excel in AP Calculus by teaching them how to effectively use the Ti-nspire graphing calculator for solving complex problems.
 ---
 

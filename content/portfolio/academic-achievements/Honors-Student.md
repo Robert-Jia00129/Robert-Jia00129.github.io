@@ -1,8 +1,7 @@
 ---
 title: University Honors Student
-start_date: 01-2023
-end_date: 06-2026
-brief: 
+start_date: 2023-01-00
+end_date: 2027-06-06
+brief: Georgia Tech Honors Program
 ---
 
-TODO: 

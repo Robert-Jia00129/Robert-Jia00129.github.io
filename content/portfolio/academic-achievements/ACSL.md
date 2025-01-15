@@ -2,7 +2,7 @@
 title: ACSL (American Computer Science League) Team Leader & Team Silver
 start_date: 05-14-2021
 end_date: 09-14-2021
-date: 09-14-2021
+date: 2021-09-14
 brief: I participated in the American Computer Science League competition. I led a team of 3. We had no experience at all. But we managed to excel in the competition. 
 ---
 ACSL (American Computer Science League): Team Leader & Team Silver

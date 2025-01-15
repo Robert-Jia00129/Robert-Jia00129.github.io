@@ -1,7 +1,7 @@
 ---
 title: Research on Machine Learning and Computer Vision
 start_date: 09-02-2021
-date: 09-02-2022
+date: 2022-09-02
 end_date: 09-02-2022
 brief: I led a diverse team on an AI research project, becoming a key contributor in coding and paper writing while fostering a collaborative learning environment.
 ---

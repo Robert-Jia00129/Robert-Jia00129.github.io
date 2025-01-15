@@ -2,6 +2,7 @@
 title: Research on SMT (Satisfiability Modulo Theories) solvers
 start_date: 09-04-2022
 end_date: 05-12-2025
+date: 2022-09-04
 brief: I am collaborating with Professor Joosten on testing z3-SMT solvers for argyle sudokus, coding and co-writing our paper, which we aim to publish by spring semester's end."
 ---
 I am working with Professor Joosten on his research regarding the testing of z3- SMT solvers on argyle sudokus. We expect to publish the paper before the end of spring semester. I am responsible for the coding and cowriting the paper. We meet on a weekly basis to discuss progress of the project. We currently discovered that differnt approaches in building the same restrictions in z3 can lead to drastic difference in performances.

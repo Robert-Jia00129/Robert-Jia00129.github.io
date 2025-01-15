@@ -1,6 +1,6 @@
 ---
 title: GAI (Generative AI) club 
-start_date: 08-01-2024
+start_date: 2024-08-01
 brief: Robert, the driving force behind the Generative AI (GAI) Club, has successfully established a dynamic community focused on advancing generative AI. Exhibiting exemplary leadership and organizational skills, he has crafted a detailed schedule that blends theoretical knowledge with practical application, catering to members of all expertise levels. His technical mastery is evident in the curriculum that delves into advanced AI models and tools. Furthermore, his creativity and communication skills are showcased through the club's branding as "Gopher AI" and his strategic initiative to involve industry professionals, amplifying the club's impact. Robert's solitary efforts in founding this club highlight his resourcefulness and dedication, culminating in a vibrant platform that equips members with valuable skills and opportunities.
 ---
 Robert, the catalyst behind the Generative AI (GAI) Club, has meticulously crafted a vibrant ecosystem dedicated to advancing the field of generative AI. His profound capabilities in leadership, organization, technical acumen, and creativity are evident in every aspect of the club's realization.

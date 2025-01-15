@@ -2,6 +2,7 @@
 title: "founder and officer of international student organizations"
 start_date: "05/12/2023"
 end_date: "05/12/2024"
+date: 2023-05-12
 brief: Having benefited from international student organizations, I now lead efforts to support new arrivals with essential services and create engaging activities for current students
 ---
 Founder and officer of many international student organizaitons. I was helped a lot by some of those organizations when I first arrived here. So I decided to join them and provide even more support for others. We aim at providing seamless transition for international students and also allow them to connect with local organizations and recourses. 

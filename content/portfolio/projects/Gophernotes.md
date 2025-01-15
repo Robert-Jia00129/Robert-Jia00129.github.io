@@ -1,8 +1,10 @@
 ---
 title: Building a Collaborative Academic Hub--Gopher Notes
 start_date: 09-07-2023
-end_date: "Current"
-brief: "Inspired by my experiences as a note-taker and tutor, I embarked on developing Gopher Notes, a web platform aimed at enhancing academic collaboration at the University of Minnesota. With a fellow computer science major, we created a prototype that enables students to share course materials and features a points-based leaderboard to encourage contributions. Throughout the process, we streamlined our team from 15 to just two members, realizing the efficiency of smaller, focused groups. Employing technologies like TypeScript, React, Rust, and MySQL, we developed a system that supports student learning and course selection. Now, as we refine our platform based on beta testing feedback, we're on track for a full launch in September 2024, ready to transform how students collaborate academically."
+end_date: Current
+date: 2023-09-07
+brief: A notes sharing platform using React+TypeScript, Rust, and MySql
+description: Inspired by my experiences as a note-taker and tutor, I embarked on developing Gopher Notes, a web platform aimed at enhancing academic collaboration at the University of Minnesota. With a fellow computer science major, we created a prototype that enables students to share course materials and features a points-based leaderboard to encourage contributions. Throughout the process, we streamlined our team from 15 to just two members, realizing the efficiency of smaller, focused groups. Employing technologies like TypeScript, React, Rust, and MySQL, we developed a system that supports student learning and course selection. Now, as we refine our platform based on beta testing feedback, we're on track for a full launch in September 2024, ready to transform how students collaborate academically.
 ---
 ### Comprehensive Project Description: Gopher Notes
 

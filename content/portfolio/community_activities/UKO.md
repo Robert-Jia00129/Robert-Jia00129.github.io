@@ -1,7 +1,9 @@
 ---
 title: UKO (University Kernel Object) club 
-start_date: 08-01-2024
+start_date: 2024-08-01
+end_date: 2024-12-17
 brief: I created a Rust-focused subgroup in the UKO Club, addressing learning disparities by developing an inclusive curriculum, and fostering an accessible educational environment for both beginners and advanced programmers.
+date: 2024-08-01
 ---
 # Robert's Journey in the UKO Club and the Creation of the Rust Subgroup
 

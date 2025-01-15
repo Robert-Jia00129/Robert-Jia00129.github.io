@@ -1,7 +1,8 @@
 ---
 title: WeChat Mini-Program for Student Community
-start_date: 01-20-2023
+start_date: 2023-01-20
 end_date: Current
+date: 2023-01-20
 brief: "I developed and managed a WeChat mini-program to streamline information-sharing among students, significantly reducing information overload in group chats and improving access to sub-leasing, event organization, and second-hand sales."
 ---
 **Objective:**

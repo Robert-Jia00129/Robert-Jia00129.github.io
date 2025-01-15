@@ -2,6 +2,7 @@
 start_date: 09/04/2022
 end_date: present
 brief: Using a large number of LLM powered agents to test theories in social science, behavior science, and political science. 
+date: 2022-09-04
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "IGEM: International Genetically Engineered Machine"
 start_date: 2020-11-04
-date: "2021-11-04"
+date: 2021-11-04
 brief: I competed in IGEM, studying E. coli plasmid transfer risks and creating adaptive lab equipment, while also programming our project webpage.
 ---
 IGEM(International Genetically Engineered Machine Competition)  

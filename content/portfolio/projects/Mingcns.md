@@ -1,6 +1,7 @@
 ---
 title: Empowering New University Students with a Centralized Resource Hub
 brief: "I helped the development of a centralized information website to ease new students' transition by consolidating essential resources, with ongoing user engagement ensuring content remains relevant and helpful."
+date: 2022-09-01
 ---
 ### Detailed Project Description: Creating a Centralized Information Website for New Students
 

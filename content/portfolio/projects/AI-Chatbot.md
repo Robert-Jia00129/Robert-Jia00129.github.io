@@ -2,6 +2,7 @@
 title: 
 start_date: "12/20/2023"
 end_date: "Current"
+date: 2023-12-20
 brief: "I developed an AI chatbot to automate answering repetitive questions for international students, enhancing efficiency and providing them with reliable, timely information through advanced retrieval techniques."
 ---
 ### Motivation and Vision
